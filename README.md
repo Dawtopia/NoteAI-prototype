@@ -194,7 +194,6 @@ Create a `.env.local` file in the root directory:
 
 ## 👨‍💻 Author
 
-**Your Name**
 - GitHub: [@Dawtopia](https://github.com/Dawtopia)
 - Email: shdry123@gmail.com
 ---
